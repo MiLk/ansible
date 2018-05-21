@@ -19,7 +19,7 @@ with open('requirements.txt') as requirements_file:
         sys.exit(2)
 
 setup(
-    name='ansible',
+    name='ansible-kkvesper',
     version=__version__,
     description='Radically simple IT automation',
     author=__author__,
